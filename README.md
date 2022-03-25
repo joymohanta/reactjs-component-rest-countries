@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Check Live Website
+
+Just Click here:[https://leafy-melba-a2d5fd.netlify.app/]
 
 In the project directory, you can run:
 
